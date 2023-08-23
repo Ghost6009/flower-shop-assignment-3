@@ -1,0 +1,34 @@
+/* common shared styles */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    border: 0px;
+    font-size: 13px;
+    font-weight: 300;
+    padding: 12px 25px;
+}
+
+/* header related styles */
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+/* banner related styles */
+.banner{
+    display: flex;
+    align-items: center;
+}
+.banner-greeting{
+    color: #272727;
+    font-size: 45px;
+    font-weight: 700;
+}
+.banner .profile-picture{
+    width: 500px;
+}
