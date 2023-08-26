@@ -89,5 +89,21 @@ body{
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 67px 75px 0px 75px;
-
 }
+.text-underline{
+    text-decoration: underline;
+    display: flex;
+    gap: 307px;
+    padding: 15px 187px 128px 187px;
+    justify-content: space-around;
+  }
+
+  .service-container{
+    /* width: 1440px; */
+    height: 250px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    margin: 0px 160px 128px 160px;
+    justify-content: space-around;
+  }
